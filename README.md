@@ -28,7 +28,6 @@ Hem GTA 1, hem de **London 1961** ve **London 1969** eklentileri çevrilmiştir.
 ## İLETİŞİM
 
 * **E-posta:** `ghgarslan@gmail.com`
-* **Web Sitesi:** [rentry.org/goktanarslan](https://rentry.org)
 
 ---
 
