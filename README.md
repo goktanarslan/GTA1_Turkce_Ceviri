@@ -6,7 +6,7 @@
 
 ## KURULUM
 
-`GTADATA` klasörünü oyununuzun bulunduğu klasöre (GTA klasörüne) atın. DOS sürümü kullanıyorsanız `dosbox.conf` dosyasını buradaki ile değiştirin (genelde en üst klasörde olur). Oyunu çalıştırın; yama hem DOS hem Windows uyumludur.
+Releases kısmına girin, en üstteki sürüme tıklayın ve oradaki `GTA1_Turkce_Ceviri.zip` dosyasını indirin, ardından zip dosyasını çıkarın. `GTADATA` klasörünü oyununuzun bulunduğu klasöre (GTA klasörüne) atın. DOS sürümü kullanıyorsanız `dosbox.conf` dosyasını buradaki ile değiştirin (genelde en üst klasörde olur). Oyunu çalıştırın; yama hem DOS hem Windows uyumludur.
 
 ## TEMEL BİLGİLER
 
