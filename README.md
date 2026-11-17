@@ -1,6 +1,6 @@
 <div align="center">
 
-# GRAND THEFT AUTO 1 TÜRKÇE YAMA v2.0
+# GRAND THEFT AUTO 1 TÜRKÇE YAMA
 
 </div>
 
